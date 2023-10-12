@@ -1,0 +1,21 @@
+
+.warrior-button {
+    background-color: blue;
+    color: white;
+    font-family: 'DragonQuestFC', DragonQuestFC;
+}
+
+.wizard-button {
+    background-color: rgb(151, 77, 77);
+    color: white;
+}
+
+.monk-button {
+    background-color: green;
+    color: white;
+}
+
+.thief-button {
+    background-color: yellow;
+    color: black;
+}

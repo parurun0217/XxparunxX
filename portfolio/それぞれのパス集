@@ -1,0 +1,25 @@
+require_once 'C:\xampp\htdocs\portfolio\main.php';　//main.php
+
+require_once 'C:\xampp\htdocs\portfolio\select.php'; //select.php
+
+
+~skill集~
+
+require_once 'C:\xampp\htdocs\portfolio\skill\monk-skill.php'; //僧侶
+
+require_once 'C:\xampp\htdocs\portfolio\skill\thief-skill.php'; //盗賊
+
+require_once 'C:\xampp\htdocs\portfolio\skill\warrior-skill.php'; //戦士
+
+require_once 'C:\xampp\htdocs\portfolio\skill\wizard-skill.php'; //魔法使い
+
+
+~スタッツ集~
+
+require_once 'C:\xampp\htdocs\portfolio\stats\monk.php'; //僧侶
+
+require_once 'C:\xampp\htdocs\portfolio\stats\thief.php'; //盗賊
+
+require_once 'C:\xampp\htdocs\portfolio\stats\warrior.php'; //戦士
+
+require_once 'C:\xampp\htdocs\portfolio\stats\wizard.php'; //魔法使い

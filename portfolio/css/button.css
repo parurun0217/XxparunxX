@@ -1,0 +1,18 @@
+/* .custom-button クラスに適用するスタイル */
+.custom-button {
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+
+.custom-button:hover {
+    background-color: #005ea2;
+}
